@@ -1,0 +1,13 @@
+{
+  "appId": "tech.trydev.vue",
+  "appName": "vue-cap",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
