@@ -5,8 +5,8 @@ import App from './App.vue';
 import router from './router';
 import store from './store';
 
-import '@/assets/styles/index.css';
-import '@/assets/styles/index.scss';
+import '@/assets/styles/tailwind.css';
+import '@/assets/styles/style.scss';
 
 const app = createApp(App);
 app.use(ElementPlus);
